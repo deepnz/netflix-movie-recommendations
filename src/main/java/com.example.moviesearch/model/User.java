@@ -4,7 +4,7 @@ public class User{
 private String name;
 private String email;
 
-    private List<String> movieLiked;
+private List<String> movieLiked;
 private List<String> watchList;
 private List<String> moviesSeen;
 private List<String> moviesDisliked;
