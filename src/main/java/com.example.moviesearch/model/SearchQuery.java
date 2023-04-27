@@ -6,7 +6,6 @@ public class SearchQuery {
 
     public SearchQuery() {
     }
-
     public SearchQuery(List<String> query) {
         this.query = query;
     }
