@@ -2,20 +2,20 @@
 package com.example.moviesearch.model;
 
 public class SearchQuery {
-    private String query;
+    private List<String> query;
 
     public SearchQuery() {
     }
 
-    public SearchQuery(String query) {
+    public SearchQuery(List<String> query) {
         this.query = query;
     }
 
-    public String getQuery() {
+    public List<String> getQuery() {
         return query;
     }
 
-    public void setQuery(String query) {
+    public void setQuery(List<String> query) {
         this.query = query;
     }
 }
