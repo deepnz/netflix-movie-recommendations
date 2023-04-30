@@ -3,7 +3,6 @@ package com.example.moviesearch.model;
 
 public class SearchQuery {
     private List<String> query;
-
     public SearchQuery() {
     }
     public SearchQuery(List<String> query) {
