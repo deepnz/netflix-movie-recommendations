@@ -4,7 +4,7 @@ Using a sentiment analysis algorithm to recommend movies to the user by taking i
 Then plan to add embedded vectorizations, to compare and contrast the 2 algos
 
 The stack will be-
-Cassandra (NoSQL db) for the data layer
+MongoDB (NoSQL db) for the data layer
 React Frontend
 Java/Spring Boot built backend service layer
 Put in Docker containers
