@@ -1,4 +1,3 @@
-// MovieController.java
 package com.example.moviesearch.controller;
 
 import com.example.moviesearch.model.Movie;

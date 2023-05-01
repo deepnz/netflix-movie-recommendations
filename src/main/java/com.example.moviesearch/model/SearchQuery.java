@@ -1,4 +1,3 @@
-// SearchQuery.java -- tbd on exact data structure design
 package com.example.moviesearch.model;
 
 public class SearchQuery {

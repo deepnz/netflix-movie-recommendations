@@ -1,4 +1,3 @@
-// MongoDBConfig.java
 package com.example.moviesearch.config;
 
 import com.mongodb.MongoClientURI;
