@@ -53,3 +53,6 @@ public class MovieRecommendationEngine {
             double genreScore = calculateGenreScore(movie, userGenres);
             double ratingScore = movie.getRating();
             similarity = (genreWeight * genreScore) + (ratingWeight * ratingScore);
+        }
+    }
+}
