@@ -15,4 +15,3 @@ React Frontend with a few libraries.
 Java 17 features (with use of Records & Sealed classes/interfaces) built backend service layer
 Docker/Spring boot microservice
 
-Will use CoreNLP for sentiment analysis.
